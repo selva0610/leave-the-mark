@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:false}));
 //app.use(cookieParser());
 var session=require('express-session');
-app.use(session({secret:"qazwsxedcrfvtgbyhnujm",resave: true, saveUninitialized: true}));
+app.use(session({secret:"qwertyuiopselva",resave: true, saveUninitialized: true}));
 
 
 app.get('/',routes.index);
