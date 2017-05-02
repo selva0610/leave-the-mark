@@ -1,0 +1,58 @@
+.headingFont{
+    font-family: kaushan-script, cursive;
+    font-size: 40px;
+}
+
+.brandFont{
+    font-family: kaushan-script, cursive;
+    font-size: 25px;
+}
+
+.mainLines{
+    font-size:30px;
+}
+
+.menus{
+    font-size:18px;
+}
+.logo {
+    width: 110px;
+    float: left;
+}
+.logo img {
+    width: 100px;
+    height: 100px;
+}
+.navbar {
+    padding: 5px;
+}
+.navbar-brand {
+    background-color: yellow;
+    color: #000;
+    height: 100px;
+    padding-top: 40px;
+}
+.navbar-collapse {
+    margin-top: 52px;
+}
+.fright {
+    float: right;
+}
+.navbar-nav li a{
+    font-size: 20px;
+    color: #000 !important;
+    border-right-style: double;
+    border-right-color: grey;
+}
+.navbar-nav li a:hover{
+    background-color: yellow !important;
+}
+#page-content-wrapper {
+        margin-top: 200px;
+    text-align: center;
+    font-size: 24px;
+}
+.mainLines {
+        font-family: fantasy;
+    font-size: 40px;
+}

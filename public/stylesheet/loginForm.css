@@ -1,5 +1,5 @@
 html {
-  background-color:  #FFFACD !important;
+  background-color:  #ccc !important;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-  font-family: "Abel", Arial, sans-serif;
+  font-family: fantsy;
   font-weight: 400;
   font-size: 40px;
 }

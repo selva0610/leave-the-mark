@@ -10,7 +10,7 @@
   "author": "Selvakumar",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.5",
+    "bcrypt": "^0.8.7",
     "body-parser": "^1.14.2",
     "chalk": "^1.1.1",
     "ejs": "^2.3.4",
